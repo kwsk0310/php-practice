@@ -12,6 +12,7 @@
   if ($age >= 18) :
     ?>
       <h2>歡迎光臨</h2>
+      <br>
       <img width="100%" src="https://i0.wp.com/saiganak.com/wp-content/uploads/2024/01/animate-hololive-setsubun-fair-and-only-shop-00.png" alt="">
     <?php
   else :
